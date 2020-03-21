@@ -1,0 +1,32 @@
+body {
+    background-color: #ebddeb;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+input {
+    border-radius: .7em;
+    border: 0;
+    width: 30%;
+    margin: 20px;
+    opacity: 100%;
+    height: 20px;
+}
+
+button {
+    border: thin 5em #fff;
+    width:30%;
+    background-color: #390772;
+    border-radius: 1em;
+    margin: 20px;
+    color: #fff;
+    height: 30px;
+}
+
+div {
+    color:#fff;
+    background-color: #390772;
+    width: 100vw;
+}
